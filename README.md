@@ -7,10 +7,10 @@ Primera Aplicacion realizada en Flutter para dispositivos moviles,
 parte de la unidad 2 de la asignatura en Desarrollo Movil Integral
 
 ## HISTORIAL DE PRACTICAS
-| **No.** | **Nombre**                                 | **Potenciador** | **Estatus**  | **Fecha Revisión** |
-|---------|--------------------------------------------|-----------------|--------------|---------------------|
-| 20      | Instalación y Configuración de Flutter     | 10              | Finalizada   | 25-10-2024          |
-| 21      | Hello World App                            | Pendiente       | Activa       |                     |
+| **No.** | **Nombre**                                                  | **Potenciador** | **Estatus**  | **Fecha Revisión** |
+|---------|-------------------------------------------------------------|-----------------|--------------|---------------------|
+| 22      | Implementacion de la UI para la Aplicacion de Yes/No        | 10              | Finalizada   | 19-11-2024          |
+| 23      | Implementación de la Funcionalidad de la Aplicación Yes/Nop | 10              | Finalizada   | 19-11-2024          |
 
 ---
 
