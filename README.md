@@ -36,8 +36,6 @@ parte de la unidad 2 de la asignatura en Desarrollo Movil Integral
     <p><strong>10 A - IDGS</strong></p>
 </div>
 
-**Tarea 6:** Implementación de colores y tipografías para la aplicación de contador  
-**Objetivo:** Desarrollar una aplicación que permite incrementar, decrementar y resetear un contador visualmente en la interfaz del usuario.
 
 ### Puntos clave:
 
